@@ -13,7 +13,7 @@ library(ggplot2)
 
 
 
-#data from ALA for Eucalypts
+#data from ALA for Liopholis guthega
 
 library(readr)
 records.2021.10.07._Liopholis_guthega_update <- read.csv("~/Documents/R/git/records-2021-10-07-_Liopholis_guthega_update.csv")
